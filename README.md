@@ -1,4 +1,4 @@
-# Student-Listing-App-djngo
+# Shikkharthi Database
 
 Technologies used here are:
 * Backend: Python, Django
